@@ -1,2 +1,2 @@
 # PS2_remote_to_arduino
-Ardunion Code / Python code to control your pc via a PS2 remote
+Arduino Code / Python3.7 code to control your linux os via a PS2 remote
