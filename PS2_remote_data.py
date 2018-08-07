@@ -48,7 +48,7 @@ button_to_signal = {'OPEN/CLOSE':'0x68B5B\r\n',\
  'Right arrow':'0x3EB92\r\n',\
  'Square':'0xFAB5B\r\n',\
  'Down arrow':'0x5EB92\r\n',\
- 'X ':'0x7AB5B\r\n',\
+ 'X':'0x7AB5B\r\n',\
  'L1':'0x5AB5B\r\n',\
  'L3':'0x8AB5B\r\n',\
  'R3':'0x4AB5B\r\n',\
